@@ -12,9 +12,8 @@ on:
   push: 
     branches: 
       - master
-      - main
 jobs:
-  poopmap-bio:
+  poop-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: matievisthekat/poop-stats@latest
