@@ -19,6 +19,8 @@ inputs:
     description: "Your PoopMap password"
     required: true
     default: ""
+    
+outputs:
 
 runs:
   using: "node12"
