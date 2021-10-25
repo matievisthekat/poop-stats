@@ -40,4 +40,4 @@ You can then add the SVG to your repo like this:
 ```
 
 #### Note
-Credit to [lowlighter](https://github.com/lowlighter) for the grahp style
+Credit to [lowlighter](https://github.com/lowlighter) for the graph style
