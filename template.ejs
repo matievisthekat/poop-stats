@@ -91,7 +91,7 @@
         <h3>Poops per hour of day</h3>
         <div class="chart-bars">
           <% var displayedValues = []; %>
-          <% for (let h = 0; h < 24; h++) { displayedValues.push([h, (poops[h] ?? 0)/(poops.max ?? 1), poops[h]]) } %>
+          <% for (let h = 0; h < 24; h++) { displayedValues.push([h, (poops[h] || 0)/(poops.max || 1), poops[h]]) } %>
 
           
 
