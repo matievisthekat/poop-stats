@@ -16,7 +16,7 @@ jobs:
   poop-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: matievisthekat/poop-stats@latest
+      - uses: matievisthekat/poop-stats@master
         with:
           # A GitHub Personal Access Token that allows the action the access the current repo
           pat: ${{ secrets.POOP_TOKEN }}
