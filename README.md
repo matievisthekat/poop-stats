@@ -1,3 +1,5 @@
+## **📢 This project has been archived. Please use [lowlighter/metrics](https://github.com/lowlighter/metrics) with the _PoopMap_ plugin enabled**
+
 # :poop: Poop Stats!
 
 View your pooping statistics (from [PoopMap](https://poopmap.net)) in your README!
